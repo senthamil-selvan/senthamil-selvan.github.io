@@ -434,7 +434,7 @@ textarea:focus {
         display: none;
     }
 
-    .view-more-mobile {
+    #view-more-mobile {
         display: block;
     }
 
@@ -450,6 +450,13 @@ textarea:focus {
 
     .single-left-border {
         border-left: 1px solid #dee2e6;
+    }
+
+    #view-more-web {
+        display: none;
+    }
+    #view-more-mobile {
+        display: block;
     }
 
     #myworks-section ul li a.active:before {
